@@ -191,7 +191,7 @@ mvn surefire-report:report
 - Registration Number: 321428512
 - Course: EEX5563/EEX5564
 - Academic Year: 2023/2024
-- Institution: The Open University of Sri Lanka
+- University: The Open University of Sri Lanka
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
