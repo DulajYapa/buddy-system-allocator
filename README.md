@@ -56,7 +56,7 @@ buddy-system-allocator/
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/[your-username]/buddy-system-allocator.git
+https://github.com/DulajYapa/buddy-system-allocator.git
 cd buddy-system-allocator
 ```
 
