@@ -7,7 +7,6 @@ This project implements a Buddy System Memory Allocation algorithm with a graphi
 
 ## Table of Contents
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Project Structure](#project-structure)
 - [Technical Requirements](#technical-requirements)
 - [Installation](#installation)
