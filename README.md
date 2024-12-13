@@ -1,5 +1,5 @@
 # Buddy System Memory Allocator
-## EEX5563/EEX5564 – Computer Architecture and Operating Systems
+## EEX5563/EEX5564 – Computer Architecture and Operating Systems: Mini Project
 Registration Number: 321428512
 
 ## Overview
